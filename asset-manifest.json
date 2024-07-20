@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/2001-skd/age_calculator/static/css/main.9ced9b62.css",
+    "main.js": "/2001-skd/age_calculator/static/js/main.3ca47e94.js",
+    "static/js/453.80d9f289.chunk.js": "/2001-skd/age_calculator/static/js/453.80d9f289.chunk.js",
+    "static/media/birthday.png": "/2001-skd/age_calculator/static/media/birthday.3a9c39d6c2f30d9cb694.png",
+    "index.html": "/2001-skd/age_calculator/index.html",
+    "main.9ced9b62.css.map": "/2001-skd/age_calculator/static/css/main.9ced9b62.css.map",
+    "main.3ca47e94.js.map": "/2001-skd/age_calculator/static/js/main.3ca47e94.js.map",
+    "453.80d9f289.chunk.js.map": "/2001-skd/age_calculator/static/js/453.80d9f289.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ced9b62.css",
+    "static/js/main.3ca47e94.js"
+  ]
+}
